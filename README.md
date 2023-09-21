@@ -21,7 +21,7 @@ Así mismo si deseas verificar las rutas debes de contar con postman
 
 Clona el proyecto en la carpeta de tu preferencia de la siguiente manera:
 ```json
-git clone: https://gitlab.com/a353267/app-con-npm.git
+git clone https://github.com/gabribu/apirest
 ```
 
 Después de haber clonado el repositorio te arrojará una serie de archivos.
